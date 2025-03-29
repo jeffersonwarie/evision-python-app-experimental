@@ -1,0 +1,16 @@
+streamlit
+prophet
+pandas
+keras
+numpy
+scipy
+selenium
+webdriver-manager
+pytrends
+scikit-learn
+tensorflow
+plotly==5.13.1
+pillow
+python-decouple
+psycopg2-binary
+SQLAlchemy==1.4.4
